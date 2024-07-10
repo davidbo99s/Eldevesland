@@ -1,3 +1,6 @@
+
+Veridia es una región diversa y exótica situada en el sur de [[Eldoria]], conocida por su riqueza cultural, biodiversidad y su estructura semi feudal. El país está compuesto por varias ciudades y tierras controladas por nobles que sirven a la capital, [[Capital Mythralis]]. Veridia es un bastión de comercio, conocimiento y tradición, donde la naturaleza y la magia se entrelazan profundamente para formar una sociedad rica y vibrante.
+
 ### Gremios
 
 1. **Gremio de Salud**
@@ -120,3 +123,9 @@
 2. **Anuncio de Ganadores:**
     
     - Los candidatos con la mayoría de votos son declarados ganadores y toman posesión de su cargo en una ceremonia oficial.
+
+
+### Enlaces Importantes
+
+- [[Ciudades de Veridia]]
+- [[Capital Mythralis]]

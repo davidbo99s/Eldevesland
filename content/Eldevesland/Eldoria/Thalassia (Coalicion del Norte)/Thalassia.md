@@ -1,3 +1,5 @@
+Thalassia es una vasta región situada en el norte de Eldoria, conocida por su fuerte influencia mágica y su estructura feudal. El país está compuesto por varias ciudades y tierras controladas por nobles que sirven a la capital, Luminaris. Thalassia es un bastión de poder, cultura y tradición, donde la nobleza y la magia se entrelazan profundamente para formar una sociedad rica y compleja.
+
 ### Emperador Arcano de Luminaris
 
 **Título:** Emperador Arcano

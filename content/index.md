@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Eldevesland
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Eldevesland es un mundo homebrew basado en Dungeons & Dragons.
+
+Autor: David Bolivar
