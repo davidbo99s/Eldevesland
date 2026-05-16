@@ -125,7 +125,24 @@ Veridia es una región diversa y exótica situada en el sur de [[Eldoria]], cono
     - Los candidatos con la mayoría de votos son declarados ganadores y toman posesión de su cargo en una ceremonia oficial.
 
 
+### La Nobleza en el Nuevo Orden
+
+Veridia no tiene rey. Tiene un Consejo, tiene gremios con poder político real, tiene un Vocero del Pueblo elegido por plebeyos y artesanos con más votos que cualquier otro asiento. En teoría, la nobleza es una institución en declive.
+
+En la práctica, las casas nobles siguen controlando grandes extensiones de tierra, siguen siendo las únicas que pueden nominar candidatos a cuatro de los seis asientos del Consejo, y siguen amparándose en leyes que nadie ha logrado derogar: diezmos feudales, peajes hereditarios, acceso preferencial a los tribunales, inmunidad de arresto en su propia residencia.
+
+El resultado es una tensión permanente y productiva. La nobleza ya no puede ignorar la opinión pública — un barón impopular pierde candidatos, pierde aliados, pierde contratos. Pero tampoco tiene incentivo real para renunciar a sus ventajas legales mientras el sistema las proteja. Los gremios presionan desde abajo. Las casas nobles resisten desde arriba. El Consejo es el campo de batalla donde ambos lados negocian, ceden y conspiran.
+
+Los Caballeros de Gaia y los líderes gremiales más influyentes han logrado un estatus social comparable al de la baja nobleza, aunque sin título formal. Un Maestro de Comercio exitoso o un Capitán de los Caballeros de Gaia abre las mismas puertas que un barón — y a veces más.
+
+### Casas Nobles
+
+Veridia tiene siete casas nobles reconocidas, divididas en alta y baja nobleza. Cada una tiene historia, influencia y privilegios propios que navegan con distinto éxito el nuevo orden político.
+
+Ver: [[Casas Nobles de Veridia]]
+
 ### Enlaces Importantes
 
 - [[Ciudades de Veridia]]
 - [[Capital Mythralis]]
+- [[Casas Nobles de Veridia]]
