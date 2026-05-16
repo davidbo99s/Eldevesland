@@ -34,15 +34,40 @@ Todas las acciones médicas relevantes se resuelven con **Medicina + Sabiduría*
 
 ## Estabilización y Primeros Auxilios
 
-### Estabilizar (Regla Estándar Modificada)
+> Este sistema usa las reglas de heridas, sangrado y tiradas de muerte del [[content/Reglas de Juego/Sistema de Heridas y Muerte|Sistema de Heridas y Muerte]]. Las reglas estándar de 5e para estabilizar quedan reemplazadas por lo que se describe allí.
 
-- Acción completa. Sin tirada con **Kit de Sanador** (consume 1 uso).
-- Sin kit: Tirada de Medicina DC 10.
-- La criatura estabilizada queda en 0 HP pero no hace tiradas de muerte.
+### Estabilizar una Criatura Moribunda
+
+Como **acción**, el médico hace una prueba de **Sabiduría (Medicina) DC 10** sobre una criatura a 0 PG a su alcance.
+
+- Con **Kit de Sanador** (consume 1 uso): +2 a la tirada.
+- **Éxito**: El objetivo obtiene 1 éxito en una salvación contra la muerte. Si esto le otorga el tercer éxito, queda estable.
+- **Éxito por 5 o más**: Además, el objetivo elimina 1 fallo en una salvación contra la muerte.
+- **Natural 1**: El objetivo gana 1 fallo en una salvación contra la muerte.
+
+### Tratar Heridas (Alineado con Sistema de Heridas y Muerte)
+
+Las **Heridas** (Normal y Complicada) se tratan con las CDs definidas en el Sistema de Heridas y Muerte:
+
+| Tipo de Herida | DC para tratar | DC para eliminar |
+|---|---|---|
+| Herida Normal | 13 | 13 (si ya tratada) |
+| Herida Complicada | 17 (solo trata, no elimina) | — (requiere descanso corto adicional) |
+
+- Tratar detiene el sangrado de esa Herida inmediatamente.
+- Eliminar la Herida es un paso adicional, no automático.
+- Una criatura puede intentarlo sobre sí misma, pero con **desventaja** salvo que un rasgo diga lo contrario.
+- Consultar el [[content/Reglas de Juego/Sistema de Heridas y Muerte|Sistema de Heridas y Muerte]] para la tabla completa de resultados.
+
+### Sangrado
+
+Al final de cada turno, una criatura con Heridas sin tratar pierde PG **iguales al número de sus Heridas sin tratar**. Esta pérdida ignora los PG temporales.
+
+Tratar una Herida detiene inmediatamente el sangrado causado por esa Herida específica.
 
 ### Primeros Auxilios Post-Combate
 
-Administrado dentro de los **10 minutos** tras el combate:
+Administrado dentro de los **10 minutos** tras el combate. No elimina Heridas, pero acelera la recuperación de HP.
 
 - **DC 10**: La criatura recupera 1 dado de vida inmediatamente (sin descanso).
 - **DC 14**: La criatura recupera 2 dados de vida.
@@ -94,13 +119,16 @@ Las siguientes condiciones pueden tratarse médicamente, sin magia:
 | Fuerte (DC 16-18) | DC 18 |
 | Letal (DC 19+) | DC 21 |
 
-#### Herida Sangrante (Condición Homebrew)
-Si un personaje recibió un golpe crítico o un ataque dirigido que causó hemorragia, pierde 1d4 HP al inicio de cada turno hasta que se trate.
+#### Heridas (Sistema de Heridas y Muerte)
 
-- **DC de tratamiento**: DC 12.
-- **Tiempo**: 1 acción en combate o 2 minutos fuera de combate.
-- **Insumos**: Kit de Sanador (1 uso).
-- **En combate**: El médico puede gastar su acción para tratar al paciente adyacente. El paciente debe estar estable y no puede atacar en el mismo turno.
+Las Heridas se rigen por el [[content/Reglas de Juego/Sistema de Heridas y Muerte|Sistema de Heridas y Muerte]]. A efectos de la habilidad de Medicina:
+
+- **Herida Normal — DC 13**: tratarla detiene el sangrado; si ya estaba tratada, la elimina. Con éxito por 5 o más, hace las dos cosas a la vez.
+- **Herida Complicada — DC 17**: tratarla detiene el sangrado, pero no la elimina. Si ya estaba tratada, se reduce a Herida Normal.
+- **Tiempo**: 1 acción en combate; puede hacerse fuera de combate normalmente.
+- **Insumos**: Kit de Sanador (1 uso) o herramientas apropiadas.
+- **En combate**: El médico gasta su acción. La criatura tratada no tiene restricción de acción por recibir el tratamiento.
+- **Natural 1**: Si el paciente está a 0 PG, gana 1 fallo en salvación de muerte. Si no: sufre 1d4 de daño (Normal) o 1d6 de daño (Complicada) y la herida puede empeorar.
 
 #### Fractura
 - **DC de tratamiento**: DC 14 (inmovilizar y entablillar).
@@ -192,12 +220,12 @@ La cirugía representa intervenciones invasivas: extraer proyectiles, reparar ó
 - **En fallo**: El daño queda pero el proyectil se extrae. En fallo crítico: 1d6 de daño adicional por complicaciones.
 
 #### Sutura Interna
-- **Descripción**: Reparar hemorragia interna, suturar órgano dañado.
-- **DC**: 17
+- **Descripción**: Reparar hemorragia interna, suturar órgano dañado. Procedimiento indicado para **Heridas Complicadas** con hemorragia interna.
+- **DC**: 17 (igual que tratar una Herida Complicada)
 - **Tiempo**: 1 hora
 - **Insumos**: Kit Médico Avanzado (2 usos)
-- **En éxito**: Detiene hemorragia interna (que sin intervención causaría 1d6 daño/hora). El paciente necesita 1 semana de reposo.
-- **En fallo**: La hemorragia continúa. Reintentarlo añade +2 al DC por el deterioro del tejido.
+- **En éxito**: Trata la Herida Complicada, deteniendo el sangrado. Si la Herida ya estaba tratada, la reduce a Herida Normal. El paciente necesita 1 semana de reposo para que la herida sane del todo.
+- **En fallo**: La Herida sigue sin tratar. Reintentarlo añade +2 al DC por el deterioro del tejido.
 
 #### Amputación Controlada
 - **Descripción**: Retirar un miembro gravemente dañado, gangrenado, o maldito que no puede recuperarse.
