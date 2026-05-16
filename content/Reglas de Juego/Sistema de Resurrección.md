@@ -252,3 +252,160 @@ Independientemente del resultado de la tirada, todo personaje que regresa de la 
 4. Clérigo tira: d20 + mod. mágico + competencia
 5. Aplica resultado según tabla. Si éxito → nueva Herida del Alma + consecuencias de revivir.
 ```
+
+---
+
+## El Rito del Anclaje Prohibido
+
+El Rito del Anclaje Prohibido es una práctica arcana antigua, anterior a los templos y a los dioses reconocidos. No requiere cristal, no requiere templo, no requiere hechizo de resurrección estándar. Tampoco requiere la bendición de ninguna deidad.
+
+En su lugar, requiere algo más difícil de conseguir: **alguien que esté dispuesto a pagar el precio**.
+
+Este ritual está prohibido en Veridia, perseguido por los Caballeros de Gaia y condenado por todos los templos mayores. En Zhor'Khaz es una práctica conocida, especialmente en el Refugio de Asmodia, donde algunos la ofrecen como servicio a quien pueda pagarlo.
+
+---
+
+### Por qué funciona distinto
+
+El sistema estándar de resurrección funciona con infraestructura espiritual: un templo consagrado actúa como conducto, un cristal de alma ancla la energía vital, un dios del panteón actual supervisa el paso. Los dioses reconocidos — Gaia, Luminara, Moradin, Sylvannis, Neroth — operan dentro de un orden establecido. Tienen reglas. Tienen límites. Tienen templos que cobran.
+
+Los **dioses antiguos** no tienen ninguna de esas cosas.
+
+Anteriores al panteón actual, anteriores a los primeros templos, los dioses antiguos son entidades que existían cuando el mundo era más rudo y la frontera entre la vida y la muerte era más permeable. No se les construyen altares en plazas públicas. No tienen sacerdotes con hábitos limpios. Se les invoca a través de conexiones personales, pactos de sangre o herencias olvidadas, y a cambio de favores que nunca terminan de pagarse del todo.
+
+El Rito del Anclaje canaliza a uno de estos poderes como sustituto de toda la infraestructura que el sistema estándar requiere. El dios antiguo actúa como conducto, el Ancla Viviente reemplaza el cristal, y el alma regresa — sin guía divina del panteón establecido, sin el proceso correcto, arrancada. Eso tiene un coste.
+
+---
+
+### Requisitos
+
+| Requisito | Detalle |
+|---|---|
+| El cuerpo del fallecido | Debe estar presente. Si el cuerpo fue destruido, el ritual falla. |
+| Un **Ancla Viviente** | Un ser consciente y vivo que participe en el ritual (ver abajo). |
+| Conocimiento del rito | No se aprende en ningún templo reconocido. Requiere una fuente prohibida. |
+| **Conexión con un dios antiguo** | El ejecutor debe tener un vínculo activo con una de estas entidades (ver abajo). |
+| 1 hora de ritual ininterrumpido | Más rápido que el sistema estándar, y funciona en cualquier lugar. |
+
+**Lo que NO se necesita:** cristal de alma, templo consagrado, hechizo de resurrección estándar, ni acceso al panteón actual.
+
+**Lo que SÍ se necesita en lugar de todo eso:** una conexión divina real con algo más antiguo que los dioses que conoce la gente.
+
+---
+
+### Conexión con un Dios Antiguo
+
+El ejecutor del rito debe tener un **vínculo activo y personal** con una de las entidades que existían antes del panteón establecido. No basta con conocer su nombre o haber leído sobre ellos — el dios antiguo debe reconocer al invocante.
+
+Esto generalmente toma una de las siguientes formas:
+
+- **Clérigo o devoto** de una deidad no reconocida por el panteón actual, cuyo culto es activo aunque oculto.
+- **Warlock** cuyo patrón es una entidad de era pre-divina — un Gran Antiguo, un poder primordial, un ser que existía antes de que los dioses actuales reclamaran su dominio.
+- **Persona marcada** por uno de estos poderes a través de nacimiento, maldición o un pacto realizado en el pasado (propio o heredado).
+- **Portador de un artefacto** que sirva como canal directo a uno de estos seres, si el DM lo determina.
+
+Los dioses antiguos no son necesariamente malignos. Son anteriores a esa distinción. Pero sus métodos no se ajustan al orden moral que el panteón actual pretende mantener, y los templos establecidos los tratan como amenaza existencial, no como alternativa teológica.
+
+Algunos nombres que circulan en tomos prohibidos y en los cultos de Zhor'Khaz: **Varek el Inacabado**, **La Madre Sin Forma**, **El Que Espera Bajo la Ceniza**. Ninguno de ellos aparece en los textos sagrados de Gaia ni de Luminara. Eso no significa que no existan.
+
+La tirada del ritual usa la característica que refleja esa conexión:
+- Clérigo de dios antiguo: **Sabiduría**
+- Warlock con patrón antiguo: **Carisma**
+- Portador de artefacto o marca: lo que el DM determine
+
+### El Ancla Viviente
+
+El Ancla Viviente es la persona que se vincula voluntariamente al ritual para servir como puente entre la vida y la muerte.
+
+El alma del fallecido no cruza hacia la vida por un conducto sagrado — se aferra a la vida del Ancla y tira. El Ancla siente el proceso como una extracción: algo se va y no vuelve completamente.
+
+**El Ancla debe ser voluntaria.** Un ancla forzada puede intentarse, pero el ejecutor del rito debe superar una tirada de Arcana adicional (CD 20), y el resultado es impredecible a discreción del DM. Forzar a alguien a ser ancla es considerado uno de los actos más oscuros que contempla este sistema.
+
+#### Consecuencia para el Ancla
+
+Cuando el ritual concluye, el Ancla sufre dos efectos:
+
+**1 Herida del Alma.** El alma del muerto no cruza sola — arrastra algo del Ancla consigo al pasar. El Ancla gana una Herida del Alma con todos sus efectos mecánicos normales (acumulable con las que ya tenga). Esto la hace participante real del coste espiritual, no solo un recipiente pasivo.
+
+**−2 a la Constitución durante 7 días.** El esfuerzo físico y espiritual del proceso agota el cuerpo del Ancla durante aproximadamente una semana. Este penalizador afecta:
+- El modificador de Constitución (y por tanto las tiradas de salvación de Constitución).
+- Los puntos de golpe máximos (−1 por nivel si el modificador baja un paso).
+
+Al cabo de 7 días, la penalización desaparece sola. *Greater Restoration* puede eliminarlo antes.
+
+#### El vínculo permanente
+
+Tras el ritual, el Ancla y el resucitado quedan **espiritualmente vinculados** para siempre:
+
+- Cada uno puede sentir la dirección aproximada del otro si están en el mismo plano, como una presión sorda en la parte posterior de la mente.
+- Cuando uno de los dos está en grave peligro (a 0 PG o haciendo tiradas de muerte), el otro lo siente físicamente: un frío repentino, una presión en el pecho, o un zumbido en los oídos.
+- **Si el Ancla muere** después del ritual, el resucitado sufre de inmediato **1 Herida del Alma adicional** sin importar dónde esté.
+- **Si el resucitado muere de nuevo**, el Ancla recibe 2d10 de daño psíquico.
+
+El vínculo no puede romperse por medios mundanos. *Wish* o intervención divina directa pueden considerarse.
+
+---
+
+### Coste del alma para el resucitado
+
+El alma regresa sin guía divina, sin infraestructura espiritual, arrancada desde el otro lado. El daño es mayor.
+
+El resucitado gana **2 Heridas del Alma** en lugar de 1.
+
+Si el personaje ya tiene Heridas del Alma previas, el DM puede considerar si esta acumulación lo acerca peligrosamente al límite de 4 resurrecciones.
+
+---
+
+### Tirada del ritual
+
+Al finalizar el ritual, el ejecutor realiza una tirada usando la característica que corresponde a su conexión con el dios antiguo (Sabiduría para clérigos de cultos prohibidos, Carisma para warlocks con patrón antiguo, o lo que el DM determine):
+
+```
+d20 + modificador de característica + bonificador de competencia en Religión o en el rasgo de clase relevante
+```
+
+La DC se calcula igual que el sistema estándar, pero con modificadores distintos:
+
+```
+DC = 10 + Heridas del Alma previas + penalizador por tiempo + penalizador por estado del cuerpo + penalizador por causa de muerte
+```
+
+La DC base es **10 en lugar de 12** — el rito es brutalmente eficiente porque no le importa el bienestar del alma. Los penalizadores de tiempo y cuerpo aplican igual. **No hay penalizador por ubicación**: el ritual funciona en un callejón, en una mazmorra, o en medio del campo.
+
+| Resultado | Consecuencia |
+|---|---|
+| **Supera la DC por 5 o más** | El alma regresa con fuerza. El resucitado gana solo **1 Herida del Alma** (en lugar de 2). El vínculo sigue siendo permanente. |
+| **Supera la DC** | Éxito. El resucitado vuelve con **2 Heridas del Alma**. |
+| **Falla la DC por 1–4** | El rito falla. El alma no responde. Puede reintentarse tras un descanso largo. El Ancla ya sufrió la pérdida de Constitución, independientemente del resultado. |
+| **Falla la DC por 5 o más** | El alma es alcanzada pero no retenida. Algo más también fue atraído. El DM decide qué. |
+| **1 natural** | El alma del resucitado no regresa. En su lugar, algo usa el cuerpo como entrada. El DM determina qué llega. |
+
+---
+
+### Variante: El Sacrificio Total
+
+Si el Ancla no quiere sobrevivir al proceso — o si alguien decide serlo sabiendo lo que implica — puede **ofrecer su vida completa** en lugar de solo una fracción.
+
+En esta variante:
+- El Ancla **muere** al finalizar el ritual. Su vida es el precio completo.
+- El resucitado regresa con **1 sola Herida del Alma** (el coste normal) en lugar de 2.
+- La DC se reduce en **3 puntos adicionales** — la vida completa es un ancla perfecta.
+- El vínculo permanente **no se forma**, porque el Ancla ya no existe.
+- El resucitado sabe, al despertar, exactamente lo que ocurrió.
+
+Esta variante es la más oscura del sistema. Técnicamente es un intercambio de vidas. Moralmente, depende de quién decida y por qué.
+
+> Los Caballeros de Gaia distinguen entre quien se sacrifica voluntariamente y quien sacrifica a otro. El primero es perseguido por el peligro del ritual. El segundo es ejecutado.
+
+---
+
+### Cómo aprender el rito
+
+El Rito del Anclaje Prohibido no se enseña en ninguna institución reconocida. No está en los textos sagrados de ningún dios del panteón actual — no porque no lo sepan, sino porque activamente suprimen su existencia. Sus fuentes conocidas son:
+
+- **La Biblioteca de las Sombras** (Zhor'Khaz): textos teológicos pre-divinos que documentan prácticas anteriores a los dioses reconocidos. No son tomos de magia arcana — son escrituras de cultos extintos.
+- **El Refugio de Asmodia**: Asmodia Velith mantiene contacto con entidades que preexisten al panteón. Sus seguidores conocen el rito y pueden enseñarlo a quienes demuestren compromiso real con los poderes a los que sirve.
+- **Textos confiscados por los Caballeros de Gaia**: los destruyen cuando los encuentran. Algunos no llegan a ser destruidos.
+- **El dios antiguo mismo**: en casos raros, una entidad pre-divina puede revelar el rito directamente a alguien que haya capturado su atención — a través de un sueño, una visión, o un momento de contacto durante una crisis espiritual.
+
+Aprender el rito requiere al menos **una semana** con acceso a la fuente. Pero saber el rito no es suficiente — también se necesita que el dios antiguo invocado **reconozca al ejecutante**. Un estudioso que memorizó los pasos sin ninguna conexión real con estas entidades no puede completar el ritual. El dios antiguo simplemente no responde.
